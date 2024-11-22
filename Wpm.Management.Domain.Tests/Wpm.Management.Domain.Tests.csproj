@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Wpm.Management.Domain\Wpm.Management.Domain.csproj" />
+    <ProjectReference Include="..\Wpm.SharedKernel\Wpm.SharedKernel.csproj" />
   </ItemGroup>
 
   <ItemGroup>
