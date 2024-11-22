@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpm.Clinic.Domain", "Wpm.Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpm.SharedKernel", "Wpm.SharedKernel\Wpm.SharedKernel.csproj", "{8A0AC559-0628-4BE8-85A0-6AB7474A9431}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpm.Clinic.Domain.Tests", "Wpm.Clinic.Domain.Tests\Wpm.Clinic.Domain.Tests.csproj", "{21D54313-A466-4AF4-8076-D027970BA66A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{8A0AC559-0628-4BE8-85A0-6AB7474A9431}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A0AC559-0628-4BE8-85A0-6AB7474A9431}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A0AC559-0628-4BE8-85A0-6AB7474A9431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21D54313-A466-4AF4-8076-D027970BA66A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D54313-A466-4AF4-8076-D027970BA66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D54313-A466-4AF4-8076-D027970BA66A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D54313-A466-4AF4-8076-D027970BA66A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
